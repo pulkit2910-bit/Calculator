@@ -27,6 +27,10 @@ input {
     color: hsl(221, 14%, 31%);
 }
 
+input[type="button"]:hover {
+    cursor: pointer;
+}
+
 input[type="text"] {
     text-align: right;
     border: none;
